@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249837972273",
+    "project_id": "memorise-notesapp",
+    "storage_bucket": "memorise-notesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249837972273:android:7569c6fe57ac1aadc51e10",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZLroziFXJ0iqZzWMGRCxvUGY6tzJYik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
