@@ -1,6 +1,1 @@
-* linguist-vendored=true
-*.cpp linguist-detectable=false
-*.rb linguist-detectable=false
-*.html linguist-detectable=false
-*.dart linguist-detectable=true
-*.swift linguist-detectable=true
+special-vendored-path/* linguist-vendored
